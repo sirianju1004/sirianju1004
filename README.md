@@ -1,7 +1,7 @@
-## Hi there 👋
-
-<!--
-**sirianju1004/sirianju1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋. I'm Ankita Meshram
+_____________________________________________________________
+AI/ML | Python Developer | Data Analyst | Bussiness Analyst 
+______________________________________________________________
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+_____________________________________________________________
+#Github Stat
+![Stats]((https://github-readme-stats.vercel.app/api?username=Sirianju)
