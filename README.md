@@ -1,5 +1,40 @@
-# 💫 About Me:
-# Hi there 👋, I'm Ankita<br><br>🎓 MCA Student <br><br>💻 Aspiring Data Analyst & Web Developer<br><br>I am passionate about technology, data, and building useful applications. <br>I enjoy analyzing data, creating dashboards, and developing responsive web applications.<br><br>🌱 Currently Learning<br>- Python<br>- SQL<br>- Power BI<br>- Excel<br>- Data Structures & Algorithms<br>- Machine Learning Fundamentals<br>- HTML, CSS, JavaScript<br>- React.js<br><br>🔭 Currently Working On<br>- Data Analytics Projects<br>- Web Development Projects<br><br>💡 Skills<br>- Python<br>- SQL<br>- Power BI<br>- Excel<br>- HTML<br>- CSS<br>- JavaScript<br><br>🎯 Career Goals<br>- Become a skilled Data Analyst<br>- Build modern web applications<br>- Gain hands-on industry experience through internships<br><br>⚡ Fun Fact<br>I love learning new technologies and turning ideas into real-world projects.
+💫 About Me:
+# Hi there 👋, I'm Ankita<br><br>
+🎓 MCA Student <br><br>
+💻 Aspiring Data Analyst & Web Developer<br><br>
+I am passionate about technology, data, and building useful applications. <br>
+I enjoy analyzing data, creating dashboards, and developing responsive web applications.<br><br>
+🌱 Currently Learning<br>
+- Python<br>
+- SQL<br>
+- Power BI<br>
+- Excel<br>
+- Data Structures & Algorithms<br>
+- Machine Learning Fundamentals<br>
+- HTML, CSS, JavaScript<br>
+- React.js<br><br>
+
+🔭 Currently Working On<br>
+- Data Analytics Projects<br>
+- Web Development Projects<br><br>
+
+💡 Skills<br>
+- Python<br>
+- SQL<br>
+- Power BI<br>
+- Excel<br>
+- HTML<br>
+- CSS<br>
+- JavaScript<br><br>
+
+🎯 Career Goals<br>
+- Become a skilled Data Analyst<br>
+- Build modern web applications<br>
+- Gain hands-on industry experience through internships<br><br>
+
+⚡ Fun Fact<br>
+I love learning new technologies and turning ideas into real-world projects.
+<br><br>
 
 
 ## 🌐 Socials:
